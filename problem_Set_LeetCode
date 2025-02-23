@@ -1,0 +1,168 @@
+
+## **🔁 Loops (10)**  
+- 🔄 [7] Reverse Integer  
+- 🔄 [9] [Palindrome Number](https://leetcode.com/problems/palindrome-number)  
+- 🔢 [258] Add Digits  
+- 😊 [202] Happy Number  
+- 🔢 [2520] Count the Digits That Divide a Number  
+- 🔢 [728] Self Dividing Numbers  
+- ✅ [507] Perfect Number  
+- ⚽ [1742] Maximum Number of Balls in a Box  
+- 🤢 [263] Ugly Number  
+- 🏁 [1342] Number of Steps to Reduce a Number to Zero  
+
+---
+
+## **🟢 Easy Problems**  
+- 🔠 [13] Roman to Integer  
+- 🔄 [9] Palindrome Number  
+- ✖️ [326] Power of Three  
+- 📊 [171] Excel Sheet Column Number  
+- 🎉 [412] Fizz Buzz  
+- ➗ [231] Power of Two  
+- 🎭 [190] Reverse Bits  
+- 🔢 [191] Number of 1 Bits  
+
+---
+
+## **🟡 Medium Problems**  
+- 🧮 [50] Pow(x, n)  
+- 🧩 [166] Fraction to Recurring Decimal  
+- ➗ [227] Basic Calculator II  
+- 🔢 [12] Integer to Roman  
+- ✖️ [43] Multiply Strings  
+- 🔠 [151] Reverse Words in a String  
+- 📏 [8] String to Integer (atoi)  
+- 🔢 [29] Divide Two Integers  
+
+---
+
+## **📌 Maps and Vectors (6)**  
+- 🔠 [242] [Valid Anagram](https://leetcode.com/problems/valid-anagram)  
+- 🔠 [2273] [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams)  
+- 🏷️ [49] [Group Anagrams](https://leetcode.com/problems/group-anagrams)  
+- 📉 [448] Find All Numbers Disappeared in an Array  
+- 🔍 [442] Find All Duplicates in an Array  
+- 🎭 [645] Set Mismatch  
+
+---
+
+## **📦 Arrays (19)**  
+- 🔢 [204] Count Primes  
+- ❌ [27] [Remove Element](https://leetcode.com/problems/remove-element)  
+- ❌ [26] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  
+- ⚙️ [2460] [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array)  
+- 🚀 [283] [Move Zeroes](https://leetcode.com/problems/move-zeroes)  
+- 📌 [80] [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  
+- ➕ [66] [Plus One](https://leetcode.com/problems/plus-one)  
+- 🎨 [75] [Sort Colors](https://leetcode.com/problems/sort-colors)  
+- 🔠 [58] [Length of Last Word](https://leetcode.com/problems/length-of-last-word)  
+- 🔄 [88] Merge Sorted Array  
+- ➗ [169] Majority Element  
+- 📌 [217] Contains Duplicate  
+
+---
+
+## **🔄 Recursion (6)**  
+- 🔢 [50] Pow(x, n)  
+- 🌀 [509] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)  
+- 🔗 [797] All Paths From Source to Target (Graph)  
+- 🎯 [494] Target Sum  
+- 🤹‍♂️ [241] Different Ways to Add Parentheses  
+- 🔄 [60] Permutation Sequence  
+
+---
+
+## **🔑 HashSet (3)**  
+- 🔢 [705] [Design HashSet](https://leetcode.com/problems/design-hashset)  
+- 🔢 [706] [Design HashMap](https://leetcode.com/problems/design-hashmap)  
+- 💎 [771] Jewels and Stones  
+
+---
+
+## **📈 Dynamic Programming (9)**  
+- 🏃‍♂️ [70] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)  
+- 🏠 [198] [House Robber](https://leetcode.com/problems/house-robber)  
+- 🔄 [509] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)  
+- 🏁 [746] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)  
+- 🏡 [213] [House Robber II](https://leetcode.com/problems/house-robber-ii)  
+- 🎭 [322] Coin Change  
+-     Problem 121 Best Time to Buy and Sell Stock - LeetCode
+-	    118. Pascal's Triangle
+-	    62. Unique Paths
+
+
+---
+
+## **📊 Prefix Sum (3)**  
+- 🔢 [1480] [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array)  
+- ➕ [53] Maximum Subarray  
+- 📈 [1413] [Minimum Value to Get Positive Step-by-Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)  
+
+---
+
+## **📦 Stacks and Queues (10)**  
+- 📚 [225] Implement Stack using Queues  
+- 🛒 [232] Implement Queue using Stacks  
+- 🍽️ [1700] Number of Students Unable to Eat Lunch  
+- 🔠 [20] Valid Parentheses  
+- 💧 [42] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)  
+- 🔢 [496] Next Greater Element I  
+- 🔢 [503] Next Greater Element II  
+- ⏳ [2073] Time Needed to Buy Tickets  
+- 🧩 [155] Min Stack  
+- 🔄 [739] Daily Temperatures  
+
+---
+
+## **📏 Sliding Window (8)**  
+- 🔄 [3] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)  
+- 🎯 [209] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)  
+- 🔍 [1876] Substrings of Size Three with Distinct Characters  
+- 🔄 [567] Permutation in String  
+- ⚠️ [219] [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)  
+- 📊 [643] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)  
+- 🏷️ [424] Longest Repeating Character Replacement  
+
+
+## **🔎 Binary Search (7)**
+🎯 [704] Binary Search
+📈 [278] First Bad Version
+➗ [35] Search Insert Position
+🔍 [374] Guess Number Higher or Lower
+🏹 [852] Peak Index in a Mountain Array
+🔢 [162] Find Peak Element
+📊 [153] Find Minimum in Rotated Sorted Array
+
+---
+
+##🔗 **Linked List (10)**
+🔗 [206] Reverse Linked List
+🔄 [21] Merge Two Sorted Lists
+🚀 [141] Linked List Cycle
+🔄 [83] Remove Duplicates from Sorted List
+🔢 [2] Add Two Numbers
+🔍 [160] Intersection of Two Linked Lists
+🔥 [234] Palindrome Linked List
+⏩ [19] Remove Nth Node From End of List
+🛑 [203] Remove Linked List Elements
+🔄 [24] Swap Nodes in Pairs
+
+
+##🔗 **Doubly Linked List (4)**
+🔄 [707] Design Linked List
+🔄 [430] Flatten a Multilevel Doubly Linked List
+🔄 [146] LRU Cache (Doubly Linked List)
+🔄 [25] Reverse Nodes in k-Group
+
+---
+## 🌲 **Trees (8)**
+🌳 [104] Maximum Depth of Binary Tree
+🌱 [100] Same Tree
+🔄 [101] Symmetric Tree
+🏡 [102] Binary Tree Level Order Traversal
+🔍 [144] Binary Tree Preorder Traversal
+🔍 [94] Binary Tree Inorder Traversal
+🔄 [145] Binary Tree Postorder Traversal
+🔗 [226] Invert Binary Tree
+
